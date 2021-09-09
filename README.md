@@ -1,4 +1,4 @@
-##[Just Learning]
+#[Just Learning to make simple calculator]
 
 # Getting Started with Create React App
 
