@@ -1,8 +1,10 @@
 import React from 'react'
 import ReactDom from 'react-dom'
-import Calculator from './Calculator'
+import App from './App'
+// import Calculator from './Calculator'
 
  ReactDom.render(
-    <Calculator/>,
+   //  <Calculator/>
+    <App/>,
     document.getElementById('root')
  )
